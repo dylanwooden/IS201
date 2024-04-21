@@ -1,3 +1,23 @@
-h1{
-    color:black
+#dylstyle1{
+    color: red
+}
+#dylstyle2{
+    color:green;
+    font-size: 45px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#dylstyle3{
+    color:grey;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#dylstyle4{
+    color:brown;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#dylstyle5{
+    color:orange;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
 }
